@@ -22,7 +22,7 @@ The script automates the process of downloading images from EVOX ftp site, then 
 - Wi-Fi
 - [Python](https://www.python.org/downloads)
 - [Thonny](https://thonny.org)
-- Install boto3
+- Use package manager pip to install boto3
 - Run the script called "ACE automates EVOX" which is available in the project directory
 - Program asked to enter the VIF #
 - When you enter the VIF # the code will download the images of the vehical locally on your machine after renaming them, and refining the directory structure by deleting the empty files then uploading them to AWS S3 bucket.
