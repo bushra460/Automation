@@ -5,7 +5,7 @@
 - Description
 - Introduction
 - How to use it 
-- Author Info 
+
 ---
 #### Description:
 ##### [ACE](https://cbsawikiasfc.omega.dce-eir.net/pages/viewpage.action?pageId=192906476) project in detail
@@ -27,4 +27,4 @@ The script automates the process of downloading images from EVOX ftp site, then 
 - Program asked to enter the VIF #
 - When you enter the VIF # the code will download the images of the vehical locally on your machine after renaming them, and refining the directory structure by deleting the empty files then uploading them to AWS S3 bucket.
 ---
-#####
+
