@@ -1,14 +1,30 @@
-# Automation of ACE
+# Automation of ACE(Advance Conveyance Examination)
+
 ### Table of content
 ---
+- Description
+- Introduction
+- How to use it 
+- Author Info 
+---
+#### Description:
+##### [ACE](https://cbsawikiasfc.omega.dce-eir.net/login.action;jsessionid=5D16D6FEDCDA2F502BC25B62C7097099?os_destination=%2Fpages%2Fviewpage.action%3FpageId%3D192906476) project in detail
+---
+#### Introduction:
 
-- [Description](http://www.google.com)
-- [Introduction]()
-- [How to use it]()
-- [Author Info]()
+The script automates the process of downloading images from EVOX ftp site, then upload them on AWS S3 bucket after renaming them according to the naming convention.
+
+##### The script is written in python.
 ---
-#### Description
-##### [ACE](http://www.google.com) project in detail
+#### How to use it:
+##### Requirements:
+- laptop/desktop
+- Wi-Fi
+- [Python](https://www.python.org/downloads)
+- [Thonny](https://thonny.org)
+- Install boto3
+- Run the script called "ACE automates EVOX" which is available in the project directory
+- Program asked to enter the VIF #
+- When you enter the VIF # the code will download the images of the vehical locally on your machine after renaming them, and refining the directory structure by deleting the empty files then uploading them to AWS S3 bucket.
 ---
-#### Introduction
-The script for automation is written in python
+#####
