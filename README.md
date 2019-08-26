@@ -8,7 +8,7 @@
 - Author Info 
 ---
 #### Description:
-##### [ACE](https://cbsawikiasfc.omega.dce-eir.net/login.action;jsessionid=5D16D6FEDCDA2F502BC25B62C7097099?os_destination=%2Fpages%2Fviewpage.action%3FpageId%3D192906476) project in detail
+##### [ACE](https://cbsawikiasfc.omega.dce-eir.net/pages/viewpage.action?pageId=192906476) project in detail
 ---
 #### Introduction:
 
