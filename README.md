@@ -4,7 +4,7 @@
 ---
 - [Description](Description)
 - [Introduction](Introduction)
-- [How to use it](How to use it) 
+
 
 ---
 #### Description:
