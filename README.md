@@ -20,8 +20,8 @@ The script automates the process of downloading images from EVOX ftp site, then 
 ##### Requirements:
 - laptop/desktop
 - Wi-Fi
-- [Python](https://www.python.org/downloads)
-- [Thonny](https://thonny.org)
+- [Python](https://www.python.org/downloads) installed
+- [Thonny](https://thonny.org) installed
 - Use package manager pip to install boto3
 - Run the script called "ACE automates EVOX" which is available in the project directory
 - Program asked to enter the VIF #
